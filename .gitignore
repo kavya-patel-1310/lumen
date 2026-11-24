@@ -1,0 +1,7 @@
+build*/
+out/
+.vs/
+.vscode/
+*.idx
+*.idx.tmp
+CMakeUserPresets.json
